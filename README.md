@@ -1,6 +1,6 @@
 **Discord-Code-Block-Formatter**
 
-**How to use :**
+**# Instructions**
 
 **Setup > ( Very simple setup. Online 2 steps and ready for use )**
 
