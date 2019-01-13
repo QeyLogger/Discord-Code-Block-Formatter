@@ -2,11 +2,13 @@
 
 **# Instructions**
 
+
 **Setup > ( Very simple setup. Online 2 steps and ready for use )**
 
 1. Download the file : formatcode.py
 
 2. Move the formatcode.py to the location. ( > This Pc > Windows (C:) > Users > your_username )
+
 
 **# Usage >**
 
