@@ -3,7 +3,7 @@
 **# Instructions**
 
 **Prerequisites**
->> Pip install Pyperclip
+>> pip install pyperclip
 
 **Setup > ( Very simple setup. Online 2 steps and ready for use )**
 
