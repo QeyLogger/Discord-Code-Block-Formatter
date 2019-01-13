@@ -25,13 +25,7 @@
 
 5. Your Code should've formatted.
 
+--
+Mentions : 
 
-
-
-
-
-
-
-
-
-
+>> pyperclip ( python module ) https://pypi.org/project/pyperclip/
